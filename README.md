@@ -29,7 +29,7 @@ The following strong driving factors behind loan defaults have been identified:
 - Loan terms of 60 months
 - Loans to applicants with annual incomes of $40k or less
 - Loan amounts above $ 25000; specifically:
-- Large loans (more than $10k issued to applicants with home
+- Large loans (more than $10k) issued to applicants with home
 ownership status of ‘other’
 - Certain loans to issued applicants with annual incomes of more than
 
@@ -42,4 +42,4 @@ The following Python libraries were utilized:
 - Matplotlib
 
 ## Contact
-Created by @gertagenbag
+Created by [@gertagenbag]
